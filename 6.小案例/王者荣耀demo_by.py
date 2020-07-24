@@ -15,6 +15,3 @@ role=input('请选择英雄(1.鲁班 2.后羿 3.李白 4.孙尚香 5.貂蝉 6.�
 coins=1000
 weapon_list=[]
 print=('欢迎{}来到王者荣耀，当前金币余额：{}'.format(role,coins))
-
-while True:
-    choice=int(input('请选择：1.购买武器2.对战3.删除武器\n4.查看武器\n5.退出武器\n您的选择是：'))
