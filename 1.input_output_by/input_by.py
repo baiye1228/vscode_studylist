@@ -27,4 +27,5 @@ pay=input('输入付款金额：')
 #变量的赋值替换
 equipment=upgrade_equipment
 
-print('{}拥有{}装备，购买此装备花了{}钱'.format(role,equipment,pay))
+username=input('用户名：')
+print(username)

@@ -19,3 +19,10 @@ result=a%b
 print("'%'运算：",result) #取余：2
 
 print('*'*50)
+
+
+a=int(input('输入a:'))
+b=int(input('输入b:'))
+
+result=a*b
+print(result)
